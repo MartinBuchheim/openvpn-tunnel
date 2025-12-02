@@ -1,4 +1,5 @@
 
+![OpenVPN Tunnel](openvpn-tunnel-logo-small.png)
 # openvpn-tunnel
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/martinbuchheim/openvpn-tunnel)](https://hub.docker.com/r/martinbuchheim/openvpn-tunnel)
