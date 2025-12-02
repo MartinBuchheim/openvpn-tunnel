@@ -1,13 +1,14 @@
-
-![OpenVPN Tunnel](openvpn-tunnel-logo-small.png)
 # openvpn-tunnel
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/martinbuchheim/openvpn-tunnel)](https://hub.docker.com/r/martinbuchheim/openvpn-tunnel)
 [![GitHub Stars](https://img.shields.io/github/stars/MartinBuchheim/openvpn-tunnel?style=social)](https://github.com/MartinBuchheim/openvpn-tunnel)
 [![Build](https://github.com/MartinBuchheim/openvpn-tunnel/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/MartinBuchheim/openvpn-tunnel/actions)
 
-**A lightweight all-in-one OpenVPN tunnel container** that includes:
+**A lightweight all-in-one OpenVPN tunnel container**
 
+![OpenVPN Tunnel](openvpn-tunnel-logo-small.png)
+
+Includes:
 - OpenVPN client  
 - VPN-backed HTTP proxy (tinyproxy)  
 - PAC file (via nginx) for selective routing  

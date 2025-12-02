@@ -8,6 +8,8 @@
 
 **A lightweight, multi-purpose OpenVPN tunnel container.**
 
+![OpenVPN Tunnel](https://raw.githubusercontent.com/MartinBuchheim/openvpn-tunnel/refs/heads/main/openvpn-tunnel-logo-small.png)
+
 This image bundles:
 - an **OpenVPN client**
 - a **VPN-backed HTTP proxy** (tinyproxy)
